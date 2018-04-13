@@ -1,0 +1,6 @@
+name: comm-2-kick
+recipe: drupal8
+config:
+  webroot: web
+  php: '7.2'
+  drush/drush: ~8.1.18
